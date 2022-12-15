@@ -1,0 +1,1 @@
+Data as a result of implementing the GenLouvain algorithm. B is the modularity matrix that is the input of the algorithm, S encodes the community labels, and Q is the quality of the resulting partition of the network. 
